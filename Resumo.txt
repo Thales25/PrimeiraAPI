@@ -1,1 +1,2 @@
-	Criação da minha primeira API. Trata-se de um programa chamado chapter com integração ao banco de dados, é uma api de gerenciamente de livros, onde é possivel realizar cadastro de novos livros, editar livros cadastrados e deletar livros cadastrados com ajuda do software Insomnia.
+	Criação da minha primeira API. Trata-se de um programa chamado chapter com integração ao banco de dados, 
+	é uma api de gerenciamente de livros, onde é possivel realizar cadastro de novos livros, editar e deletar livros cadastrados com ajuda do software Insomnia.
